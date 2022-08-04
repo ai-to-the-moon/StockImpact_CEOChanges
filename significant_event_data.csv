@@ -1,0 +1,20 @@
+Ticker,Company_Name,Date,Sector,Size
+EBAY,eBay,9/25/2019,online retail,large
+NKE,Nike,10/22/2019,athletic wear,large
+KHC,Kraft Heinz,4/22/2019,food,large
+CL,Colgate-Palmolive,2/11/2019,health,large
+MCD,McDonalds,11/3/2019,food,large
+UA,Under Armour,10/22/2019,athletic wear,medium
+UAA,Under Armour,10/22/2019,athletic wear,medium
+GPS,Gap,11/7/2019,clothing,medium
+UAL,United Airlines,12/5/2019,transportation,medium
+EXPE,Expedia,12/4/2019,travel,medium
+BURL,Burlington Stores,4/25/2019,clothing retail,medium
+WBD,Warner Bros Discovery,3/18/2019,Media,Medium
+AN,AutoNation,9/21/2021,auto retail,Medium
+OSTK,Overstock,8/12/2019,internet retail,small
+GES,Guess,1/28/2019,clothing,small
+APRN,Blue Apron,4/2/2019,food/delivery,small
+RAD,Rite Aid,3/12/2019,drugs,small
+BBBY,Bed bath and beyond,5/13/2019,home goods retail,small
+SCOR,Comscore,3/31/2019,media data,small
